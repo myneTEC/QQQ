@@ -9,3 +9,7 @@ https://neironix.io/de/cryptocurrency/poseidon_network
 
 if you wanna use this contract for your own purposes just replace every QQQ entry it containes and replace with your own naming
 also change the token name itself as shown plus every inputs ranging from lines 524 to 528: !
+
+the contract is the crypto linking into the official:
+
+https://www.google.com/finance/quote/QQQ:NASDAQ
