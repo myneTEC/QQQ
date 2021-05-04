@@ -1,4 +1,4 @@
-# QQQ (Poseidon Network, China based Powershares interlink)
+# QQQ (Poseidon Network, China based Powershares invesco interlink)
 ERC-20_TOKEN_CONTRACT_for_QQQ
 
 address: 0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21
